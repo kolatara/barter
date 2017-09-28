@@ -1,0 +1,21 @@
+Random Distribution:
+     - S1 Benefit-improving Rematches:
+         Mean: 47.127
+         SD: 1.63550328645
+     - S2 Benefit-improving Rematches:
+         Mean: 48.341
+         SD: 0.795436358234
+     - S2 Benefit-decreasing Rematches:
+         Mean: 0.798
+         SD: 0.5649743357
+Binomial Distribution:
+     - S1 Benefit-improving Rematches:
+         Mean: 10.731
+         SD: 3.58561556779
+     - S2 Benefit-improving Rematches:
+         Mean: 48.341
+         SD: 0.43865248204
+     - S2 Benefit-decreasing Rematches:
+         Mean: 2.002
+         SD: 0.0446766158074
+
